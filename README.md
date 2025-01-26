@@ -38,9 +38,12 @@ This project is a Full Stack Employee Directory application built using React.js
    python manage.py makemigrations
    python manage.py migrate
    ```
+
+   
 6. Start the development server:
    ```bash
    python manage.py runserver
    ```
 
-
+## To view Output ScreenShots (Ref: Wiki)
+https://github.com/vishnu-w3/Employee-Directory/wiki
